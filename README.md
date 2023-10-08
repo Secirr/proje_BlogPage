@@ -4,8 +4,8 @@
 
 #### My personal website project
 
-### [Siteye Gitmek için tıklayın](https://kadirozdemir00.netlify.app/)
-### [click to go to the site](https://kadirozdemir00.netlify.app/)
+### [Siteye Gitmek için tıklayın](https://kadirozdemir01.netlify.app/)
+### [click to go to the site](https://kadirozdemir01.netlify.app/)
 
 #### Created by Kadir Özdemir
 
